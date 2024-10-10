@@ -1,6 +1,6 @@
-# bmi
+# class list::flutter
 
-Computation of BMI
+Class List
 
 ## Getting Started
 
